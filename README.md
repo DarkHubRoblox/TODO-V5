@@ -1,7 +1,7 @@
 # Max's To Do list for Darkhub V5 (Key System update mainly)
 ### All of this is subject to change so like yes
 -------------------------
-- [ ] Backend
+- [ ] **Backend**
   - [ ] Key Stuff
     - [ ] Generation
     - [ ] Checking
@@ -13,9 +13,9 @@
   - [ ] Security
     - [ ] Encryption
     - just stuff like that
-- [ ] Frontend
+- [ ] **Frontend**
     - idk what to exactly do right now I'll think of something
-- [ ] Roblox Script
+- [ ] **Roblox Script**
     - [ ] Security
       - [ ] Encryption
     - [ ] Communication to Server
